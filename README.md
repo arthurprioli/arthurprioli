@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Hello there! I'm Arthur Menezes 👋
 
 🕮 Computer Science Student at PUC-Rio <br>
 🌱 I’m currently learning Data Structures and Algorithms in C
