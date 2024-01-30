@@ -1,7 +1,8 @@
 ### Hello there! I'm Arthur Menezes 👋
 
 🕮 Computer Science Student at PUC-Rio <br>
-🌱 I’m currently learning Data Structures and Algorithms in C
+🌱 I’m currently learning SPARQL and RDFs
+🔭 I’m currently working on QuemN@PUC a project from BioBD - PUC-Rio
 
 ##
 
