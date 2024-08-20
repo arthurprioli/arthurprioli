@@ -2,7 +2,7 @@
 
 🕮 Computer Science Student at PUC-Rio <br>
 🌱 I’m currently learning SPARQL and RDFs <br>
-🔭 I’m currently working on QuemN@PUC a project from BioBD - PUC-Rio
+🔭 I’m currently working on Tecgraf PUC-Rio at the Geomechanics Development Team
 
 ##
 
