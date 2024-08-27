@@ -1,7 +1,7 @@
 ### Hello there! I'm Arthur Menezes 👋
 
 🕮 Computer Science Student at PUC-Rio <br>
-🌱 I’m currently learning SPARQL and RDFs <br>
+🌱 I’m currently learning Statistics for Data Science, OpenGL <br>
 🔭 I’m currently working on Tecgraf PUC-Rio at the Geomechanics Development Team
 
 ##
