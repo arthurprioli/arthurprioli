@@ -1,8 +1,8 @@
 ### Hello there! I'm Arthur Menezes 👋
 
-🕮 Computer Science Student at PUC-Rio <br>
-🌱 I’m currently learning Statistics for Data Science, OpenGL <br>
-🔭 I’m currently working on Tecgraf PUC-Rio at the Geomechanics Development Team
+🕮 Computer Science Bsc. @ PUC-Rio <br>
+🌱 I'm currently learning geographical algorithms, the Julia programming language and optimization. <br>
+🔭 I’m currently working on PSR-Inc as a Junior Analyst, participating on the development of Hera.
 
 ##
 
