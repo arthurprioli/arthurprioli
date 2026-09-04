@@ -2,7 +2,7 @@
 
 🕮 Computer Science Bsc. @ PUC-Rio <br>
 🌱 I'm currently learning geographical algorithms, the Julia programming language and optimization. <br>
-🔭 I’m currently working on PSR-Inc as a Junior Analyst, participating on the development of Hera.
+🔭 I’m currently working on PSR-Inc as a Junior Analyst, working on the development of Hera - Hydropower Plant Planning Software.
 
 ##
 
